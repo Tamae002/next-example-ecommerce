@@ -8,6 +8,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head 
+      ><meta name="google-site-verification" content="y3p2TNqKxkcGblcqTQMNfIj2JVukb5Y-ypTUr_ODiVw" /></head>
       <body className={`${inter.className}`}>
         {children}</body>
     </html>
